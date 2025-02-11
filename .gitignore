@@ -1,0 +1,3 @@
+# .gitignore settings
+# Ignore all .log files
+*.log
